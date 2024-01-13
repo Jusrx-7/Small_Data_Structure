@@ -7,6 +7,3 @@ In Data Structure I did :
     1. STACK
     2. queue += Circular
     3. Linked List
-
-
-   [Linkedin](#NULL),[Medium](#https://medium.com/@1mohamed.rabee)
